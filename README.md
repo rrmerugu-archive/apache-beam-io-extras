@@ -11,3 +11,10 @@ The support information can be viewed from here  https://beam.apache.org/documen
 
 pip install git+https://github.com/invanatech/apache-beam-io-extras
 ```
+
+## Todo 
+
+[ ] MongoDB
+[ ] Solr
+[ ] Elasticsearch
+[ ] Bigtable
