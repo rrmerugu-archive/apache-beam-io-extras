@@ -14,7 +14,7 @@ pip install git+https://github.com/invanatech/apache-beam-io-extras
 
 ## Todo 
 
-[ ] MongoDB
-[ ] Solr
-[ ] Elasticsearch
-[ ] Bigtable
+- [ ] MongoDB
+- [ ] Solr
+- [ ] Elasticsearch
+- [ ] Bigtable
