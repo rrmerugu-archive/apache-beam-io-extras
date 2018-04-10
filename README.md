@@ -4,7 +4,7 @@ in the official `apache-beam` module.
 
 The support information can be viewed from here  https://beam.apache.org/documentation/io/built-in/
 
-**Note: This module is in alpha, may be contain breaking changes**
+**Note: This module is in alpha, may contain breaking changes**
 
 ## Installation
 ```bash
@@ -19,4 +19,3 @@ The plan to write ptranforms for the following database solutions.
 - [ ] MongoDB
 - [ ] Solr
 - [ ] Elasticsearch
-- [ ] Bigtable
