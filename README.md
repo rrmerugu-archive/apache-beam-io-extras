@@ -18,4 +18,4 @@ The plan to write ptranforms for the following database solutions.
 
 - [x] MongoDB
 - [ ] Solr
-- [ ] Elasticsearch
+- [x] Elasticsearch
