@@ -16,6 +16,6 @@ pip install git+https://github.com/invanatech/apache-beam-io-extras
 
 The plan to write ptranforms for the following database solutions.
 
-- [*] MongoDB
+- [x] MongoDB
 - [ ] Solr
 - [ ] Elasticsearch
