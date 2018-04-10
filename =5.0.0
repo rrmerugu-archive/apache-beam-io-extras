@@ -1,0 +1,2 @@
+Requirement already satisfied: elasticsearch in /Users/rrmerugu/Projects/VirtualEnvs/apache-beam-python-ptransforms/lib/python2.7/site-packages
+Requirement already satisfied: urllib3<1.23,>=1.21.1 in /Users/rrmerugu/Projects/VirtualEnvs/apache-beam-python-ptransforms/lib/python2.7/site-packages (from elasticsearch)
