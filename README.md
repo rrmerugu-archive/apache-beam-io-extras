@@ -9,7 +9,7 @@ The support information can be viewed from here  https://beam.apache.org/documen
 ## Installation
 ```bash
 
-pip install git+https://github.com/invanatech/apache-beam-io-extras
+pip install git+https://github.com/invanalabs/apache-beam-io-extras
 ```
 
 ## Todo 
