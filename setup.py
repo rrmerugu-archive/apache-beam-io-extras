@@ -3,7 +3,10 @@ from setuptools import setup
 setup(
     name='apache-beam-io-extras',
     version='0.0.1',
-    packages=['beam_io_extras'],
+    py_modules=['beam_io_extras'],
+    install_requires=[
+        'apache-beam==2.5',
+    ],
     url='https://github.com/invanatech/apache-beam-python-ptransforms',
     license='MIT License',
     author='rrmerugu',
